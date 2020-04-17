@@ -2,7 +2,7 @@
 
 <h1>Project by DSC VIT</h1>
 </br>
-<h3><a href="http://tictactoe-rishabh.herokuapp.com/">Game link(Heroku)</a></h3>
+<h3><a href="http://tictactoe-rishabh.herokuapp.com/">Game link</a></h3>
 <h3><a href="http://tictactoe-rishabh.herokuapp.com/">http://tictactoe-rishabh.herokuapp.com/</a></h3>
 <strong><h2> <p>Instagram Id - <a href="https://www.instagram.com/rishabh_keshan/">rishabh_keshan</a></h2></strong>
   </br>
