@@ -146,6 +146,7 @@ p {
   .square{
     height: 6rem;
     width: 6rem;
+    font-size: 3rem;
   }
   .title{
     font-size: 1.5rem;
@@ -156,6 +157,7 @@ p {
   .square{
     height: 5rem;
     width: 5rem;
+    
   }
   .title{
     font-size: 1.5rem;
